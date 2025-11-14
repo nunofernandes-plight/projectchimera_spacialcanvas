@@ -4,3 +4,32 @@
 2:29:13 PM [express] serving on port 5000
 
 A PostCSS plugin did not pass the `from` option to `postcss.parse`. This may cause imported assets to be incorrectly transformed. If you've recently added a PostCSS plugin that raised this warning, please contact the package author to fix the issue.
+
+#Manage Imports
+Packagers manage language-specific dependencies for your project. These can be imported directly from your codebase.
+Node.js packager (npm, yarn, pnpm, bun)
+
+tailwindcss-animate
+
+three
+
+tsx
+
+tw-animate-css
+
+typescript
+
+vaul
+
+vite
+
+wouter
+
+ws
+
+zod
+
+zod-validation-error
+
+
+Add ne
